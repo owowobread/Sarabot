@@ -62,9 +62,9 @@ def chatter(bot,update):
 def main():
     # Create the EventHandler and pass it your bot's token.
     # sara
-    #updater = Updater("223436029:AAEgihik3KXielXe7lBuP9H7o4M-eUdL_LU")
+    #updater = Updater("1084033133:AAEdb69DCPPAwCriPBQfHWwO5wJcEoLvyTA")
     #testbot
-    updater = Updater("223436029:AAH9iIhGXP8EAB4qxXx4wJ0-YpYtplYVOkY")
+    updater = Updater("1084033133:AAEdb69DCPPAwCriPBQfHWwO5wJcEoLvyTA")
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
 
