@@ -19,6 +19,26 @@
 <learn>standard/si-no.aiml</learn>
 <learn>standard/sufijos.aiml</learn>
 <learn>standard/turing.aiml</learn>
+<learn>standard/20q.aiml</learn>
+<learn>standard/battledoms.aiml</learn>
+<learn>standard/binary.aiml</learn>
+<learn>standard/blackjack.aiml</learn>
+<learn>standard/bornin.aiml</learn>
+<learn>standard/botcompare.aiml</learn>
+<learn>standard/calendar.aiml</learn>
+<learn>standard/chatbots32.aiml</learn>
+<learn>standard/copyme.aiml</learn>
+<learn>standard/currency.aiml</learn>
+<learn>standard/deystoxmas.aiml</learn>
+<learn>standard/drphil.aiml</learn>
+<learn>standard/hangman.aiml</learn>
+<learn>standard/happy.aiml</learn>
+<learn>standard/howmany.aiml</learn>
+<learn>standard/jokes.aiml</learn>
+<learn>standard/learn.aiml</learn>
+<learn>standard/maths.aiml</learn>
+<learn>standard/shutup.aiml</learn>
+<learn>standard/warnings.aiml</learn>
 </template>
 </category>
 
